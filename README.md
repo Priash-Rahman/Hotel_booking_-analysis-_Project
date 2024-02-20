@@ -60,12 +60,12 @@ enabling management to identify opportunities for improvement and capitalize on 
 
 - Step 17 : A power point template/theme made for executive summary .
 
-- Step  18 :  Now that data visualization was completed its time to pull some insights or answer some of the business questions from management .  ![Screenshot 2024-01-23 225844](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/9962f569-c587-4538-837b-d888dd13f633)
+- Step  18 :  Now that data visualization was completed its time to pull some insights or answer some of the business ad-hoc request  from management .  ![Screenshot 2024-01-23 225844](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/9962f569-c587-4538-837b-d888dd13f633)
 
 
   #### Step 19 : Answering business acumen .
 
-## Question 1 : Which months are high revenue contributor & which months contributing to revenue decline ? Any influence to drive revenue high or low on precise periods ?
+## Ad-hoc request 1 : Which months are high revenue contributor & which months contributing to revenue decline ? Any influence to drive revenue high or low on precise periods ?
 
 
 ![Revenu lost    earn](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/f567245e-770a-4b92-b2c4-8f5db89fa976) 
@@ -76,7 +76,7 @@ enabling management to identify opportunities for improvement and capitalize on 
 - Similar pattern can also be noticed incase of revenue lost along with total revenue ;
 - Avearage daily rate playing a chief role in both of the metrics , high avg daily rate pulling revenue high but at the same time it also playing key role for revenue decline.       
 
-## Question 2 : Which months faces high cancelation(booking) ? Any driving factor  ?
+## Ad-hoc request 2 : Which months faces high cancelation(booking) ? Any driving factor  ?
         
 ![Screenshot 2024-01-24 113346](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/eda10c55-7929-418e-9ae1-9b00e6949444)
 
@@ -86,7 +86,7 @@ enabling management to identify opportunities for improvement and capitalize on 
 - At the other end it clearly observed that avg daily rate has a upward trend till Aug .
 - Avg daily rate has a key impact driving canceled booking over time !
 
-## Question 3 : Whats the cancelation status across weekdays/weekends  ? 
+## Ad-hoc request 3 : Whats the cancelation status across weekdays/weekends  ? 
  
 ![Screenshot 2024-01-24 133233](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/e47a4229-d84a-4bd7-8df0-aff4f3491e66)
 
@@ -96,13 +96,13 @@ enabling management to identify opportunities for improvement and capitalize on 
  - Thu ,Fri & Sat contributing to 52% of cancelation accross weekdays .
  - Friday being the busiest day has highest booking canceled along with highest avg daily rate & high avg days in waiting.
  
- ## Question 4 : Seasons with high Cancelation rate ? Whats the scenario of avg daily rate accross seasons ?
+ ## Ad-hoc request 4 : Seasons with high Cancelation rate ? Whats the scenario of avg daily rate accross seasons ?
  ![Screenshot 2024-01-25 105934](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/4b6b8439-6d5a-4937-9875-5805e3da2bdb)
 ![Screenshot 2024-01-25 110959](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/4de19ff0-72fa-4b15-8c50-82a00527e86d)
 - Avg daily rate peaks in summer & spring as it is most demanding times for organization.
 - At the same time we have high cancelation rate at summer & spring .
 - Avg daily rate has a postive correlation with cancelation rate.
-## Question 5 : Provide insights into lead time . Cancelation based on lead time & do avg daily rate has a correlation with lead time & also do certain customer has high lead time or low lead time  ?
+## Ad-hoc request 5 : Provide insights into lead time . Cancelation based on lead time & do avg daily rate has a correlation with lead time & also do certain customer has high lead time or low lead time  ?
 ![Screenshot 2024-01-25 115338](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/d95aaa6a-b492-470b-8c0b-f3f7e6bcbff2)
 
 ![Screenshot 2024-01-24 222656](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/6ffce9e2-2b8f-4bdf-8a9f-c4750e4bb9bd)
@@ -113,7 +113,7 @@ enabling management to identify opportunities for improvement and capitalize on 
 - Lead time has a steady relation with avg daily rate 
 - Business travellers & solo travellers(friends&family) has high lead time compare to others customers and consequently have booking ratio of 69% & 74%
 - Booking far in advance does increase the probability of cancellation ! 
-## Question 6 : Provide insights of top revenue generating countries along with booking ratio , cancelation ratio , avg nights .
+## Ad-hoc request 6 : Provide insights of top revenue generating countries along with booking ratio , cancelation ratio , avg nights .
 ### ***For comprehensive analysis and view top 10 contries taken into consideration.
 ![Screenshot 2024-01-25 200039](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/a1a5ae33-def7-4c63-afd8-f677479e55cc)
 
@@ -125,7 +125,7 @@ enabling management to identify opportunities for improvement and capitalize on 
 - Portogal , France, Great britain , Spain, Germany  are top revenue contributors .
 - Top 5 countries holds 72% of transaction & 69% of total revneue & 68% of Successful booking combinedly .
 - Despite high revenue , booking , transactions portugal has the highest canceletion rate !
-## Question 7 : Days in waiting list & failed to book desired has any impact on canceletion ? 
+## Ad-hoc request 7 : Days in waiting list & failed to book desired has any impact on canceletion ? 
      *Yes = Got the desired room  ; *No = didn't get the desired room ; *No count(Dax)= Count of failed to get the desired room.
 
 ![Screenshot 2024-01-25 213434](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/e33e76ec-0623-4cdf-8713-0308574bbe34)
@@ -137,7 +137,7 @@ enabling management to identify opportunities for improvement and capitalize on 
 - On customer basis solo & solo(friends/family) have failed to book their desird room ,almost 98% of fail to get desired room fall in these customer catagory.
 - maximum of transaction,canceled booking occurred in short waiting time or between 0-2 days , even though 64% of booking falls in long waiting time have'een canceled .
 - Fail to get desired room &  long waiting list to reserve doesnt have any significant impact on canceletion . 
-## Question 8 : Provide insights into distribution channel based on booking ratio, avg nights , No counts , lead time .
+## Ad-hoc request 8 : Provide insights into distribution channel based on booking ratio, avg nights , No counts , lead time .
 
 ![Screenshot 2024-01-27 133101](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/cb5daa00-21e9-493a-b8e3-917fe7aaba28)
 ![Screenshot 2024-01-27 140022](https://github.com/Priash-Rahman/Hotel_booking_-analysis-_Project/assets/155983828/6fd0c7b6-79ce-487d-a95b-7de49d4b9ebb)
