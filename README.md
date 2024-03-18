@@ -4,7 +4,7 @@
 
 # Hotel booking analysis -Dashboard
 
-### Dashboard Link :[ https://www.novypro.com/project/hotel-booking-analysis--insights-into-average-daily-rate--cancelation-rate--booking-rate--revenue-revenue-lost--](https://www.novypro.com/project/hotel-booking-analysis--insights-into-average-daily-rate--cancelation-rate--booking-rate--revenue-revenue-lost---power-bi)
+### Dashboard Link :<iframe title="Hotel booking analysis -PBI project" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c0d7dd7e-5d64-4b4b-9515-f642dfce0c0b&autoAuth=true&ctid=8696417b-3548-41c4-8557-a4edc7e85481" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Problem Statement
 
